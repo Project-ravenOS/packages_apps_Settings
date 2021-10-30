@@ -325,4 +325,8 @@ public class Settings extends SettingsActivity {
      * Activity for AppDashboard.
      */
     public static class AppDashboardActivity extends SettingsActivity {}
+
+    // ravenos Additions.
+    public static class RavenHouseSettingsActivity extends SettingsActivity {}
+
 }

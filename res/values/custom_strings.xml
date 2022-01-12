@@ -92,5 +92,8 @@
      <!-- Raven Maintainer -->
     <string name="Raven_maintainer">Raven Maintainer</string>
 
+     <!-- Raven version in About phone --> 
+    <string name="raven_version_title">Raven version</string>
+
 </resources>
 

@@ -89,6 +89,9 @@
     <string name="keyboard_extras_title">Extras</string>
     <string name="advanced_keyboard_settings_title">Advanced settings</string>
 
+   <!-- Show About Phone instead of Android Version -->
+    <string name="raven_about_phone">About Phone</string>
+
      <!-- Raven Maintainer -->
     <string name="Raven_maintainer">Raven Maintainer</string>
 

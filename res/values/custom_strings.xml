@@ -98,7 +98,10 @@
      <!-- Raven version in About phone --> 
     <string name="raven_version_title">Raven version</string>
  
-     <!-- Three-fingers-swipe to screenshot -->
+    <!-- About Phone screen, Device Codename -->
+    <string name="about_device_name">Device</string> 
+
+    <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 

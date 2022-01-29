@@ -21,6 +21,12 @@
     android:title="@string/raven_about_phone"
     settings:keywords="@string/keywords_android_version">
 
+    <!-- Raven Os logo -->
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="raven_logo"
+        android:layout="@layout/raven_logo"
+        android:selectable="false"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"

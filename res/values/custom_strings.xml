@@ -93,7 +93,7 @@
     <string name="raven_about_phone">About Phone</string>
 
      <!-- Raven Maintainer -->
-    <string name="Raven_maintainer">Raven Maintainer</string>
+    <string name="Raven_maintainer">Raven maintainer</string>
 
      <!-- Raven version in About phone --> 
     <string name="raven_version_title">Raven version</string>

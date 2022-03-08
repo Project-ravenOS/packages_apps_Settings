@@ -85,3 +85,7 @@
 -keep class github.com.st235.lib_expandablebottombar.behavior.ExpandableBottomBarBehavior { *; }
 -keep class github.com.st235.lib_expandablebottombar.ExpandableBottomBarMenuItem** { *; }
 -keep class github.com.st235.lib_expandablebottombar.ExpandableBottomBarScrollableBehavior { *; }
+
+# Keep WM Jetpack classes and callbacks
+-keep class androidx.window.** { *; }
+-dontwarn androidx.window.extensions.**

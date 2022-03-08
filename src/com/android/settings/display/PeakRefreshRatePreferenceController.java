@@ -89,6 +89,14 @@ public class PeakRefreshRatePreferenceController extends BasePreferenceControlle
         if (index < 0) index = 0;
         mListPreference.setValueIndex(index);
         mListPreference.setSummary(mListPreference.getEntries()[index]);
+
+    public int getSliceHighlightMenuRes() {
+        return R.string.menu_key_display;
+    }
+
+    @Override
+    public void onStart() {
+        mDeviceConfigDisplaySettings.startListening();
     }
 
     @Override
